@@ -16,6 +16,9 @@ youtube.com###masthead-ad
 ||www.youtube.com/ptracking
 ||doubleclick.net
 ||googleadservices.com
+||doubleclick.com^
+||ads.google.com
+||doubleclick.com
 ||googlesyndication.com
 ||ads.youtube.com
 ||s.youtube.com
