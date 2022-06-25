@@ -1,6 +1,3 @@
-[Adblock Plus 1.1]
-! Checksum: 6aCLnN/FO81nfNtOMmtpVQ
-! Title: adblock-youtube-ads
 ##.ad-container
 ##.video-ads
 ##.ytp-ad-progress-list
