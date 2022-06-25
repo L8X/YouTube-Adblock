@@ -48,7 +48,6 @@ youtube-nocookie.com,youtube.com#%#//scriptlet('json-prune', '0.playerResponse.a
 ||youtube.com/pagead/
 ||doubleclick.net^
 ||2mdn.net^$domain=youtube.com
-!youtube新規広告2022.6.20
 youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, null)
 youtube.com##+js(json-prune, playerResponse.playerAds)
 youtube.com##+js(json-prune, 2.playerResponse.adPlacements)
